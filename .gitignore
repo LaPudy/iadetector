@@ -1,0 +1,31 @@
+# Archivos y carpetas de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Archivos de logs y errores
+*.log
+*.err
+*.out
+errores_procesamiento.log
+
+# Entornos virtuales
+venv/
+.env
+.env.*
+
+# Archivos del sistema o del editor
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+*.bak
+.csv
+.npz
+.pkl
+
+# Archivos de Jupyter (si usas notebooks)
+*.ipynb_checkpoints/
